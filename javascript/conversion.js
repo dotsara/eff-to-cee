@@ -17,6 +17,11 @@ $(document).ready(function() {
     console.log("You clicked the 'Convert!' button!");
     console.log("tempToConvert: " + tempToConvert);
 
+    /*
+      On this first pass, I'm not doing anything fancier than checking
+      that the input was a number and then converting the number to F
+      and C and displaying that result.
+    */
     if ($.isNumeric(tempToConvert)) {
       convertedFahr = fahrToCels(tempToConvert);
       convertedCels = celsToFahr(tempToConvert);

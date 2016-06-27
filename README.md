@@ -16,3 +16,8 @@ var celsToFahr = function (celsius) {
   return (((celsius * 9) / 5) + 32).toFixed(0);
 };
 ```
+
+### notes
+
+* colors ideas! http://jxnblk.com/Spectral/#b900fc&hues=3&rows=5&shiftS=-0.1&shiftL=-0.1
+* [CSS3 Button Generator](http://css3buttongenerator.com)

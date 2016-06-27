@@ -1,9 +1,11 @@
+:star2: one of my [100 projects](https://github.com/dotsara/100-projects) :star2:
+
 # eff-to-cee
 ## Converting temperatures
 
 This has to be one of the most common try-it-yourself javascript projects, but who cares! It's fun. (: 
 
-[eff-to-see in _action_!](http://toolbox.dotsara.com/eff-to-cee)
+**[eff-to-see in _action_!](http://toolbox.dotsara.com/eff-to-cee)**
 
 ### Some of the code…
 
